@@ -2,7 +2,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 1,
+    "day": 1,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -20,7 +20,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 2,
+    "day": 2,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -38,7 +38,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 3,
+    "day": 3,
     "host_team": "Australia",
     "opposition_team": "India",
     "game_type": "Test",
@@ -56,25 +56,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 4,
-    "host_team": "Australia",
-    "opposition_team": "India",
-    "game_type": "Test",
-    "venue": "Sydney Cricket Ground",
-    "host": "Australia",
-    "icc_event": "India Tour of Australia 2018-19",
-    "is_day_night": null,
-    "is_night": null,
-    "match_time_in_gmt": "0:30:00",
-    "at_home": null,
-    "match_no": 4,
-    "is_ongoing_match": true,
-    "is_data_available": true
-  },
-  {
-    "year": 2019,
-    "month": 1,
-    "date": 5,
+    "day": 4,
     "host_team": "Australia",
     "opposition_team": "India",
     "game_type": "Test",
@@ -92,7 +74,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 6,
+    "day": 5,
     "host_team": "Australia",
     "opposition_team": "India",
     "game_type": "Test",
@@ -110,7 +92,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 7,
+    "day": 6,
     "host_team": "Australia",
     "opposition_team": "India",
     "game_type": "Test",
@@ -128,7 +110,25 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 8,
+    "day": 7,
+    "host_team": "Australia",
+    "opposition_team": "India",
+    "game_type": "Test",
+    "venue": "Sydney Cricket Ground",
+    "host": "Australia",
+    "icc_event": "India Tour of Australia 2018-19",
+    "is_day_night": null,
+    "is_night": null,
+    "match_time_in_gmt": "0:30:00",
+    "at_home": null,
+    "match_no": 4,
+    "is_ongoing_match": true,
+    "is_data_available": true
+  },
+  {
+    "year": 2019,
+    "month": 1,
+    "day": 8,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -146,7 +146,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 9,
+    "day": 9,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -164,7 +164,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 10,
+    "day": 10,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -182,7 +182,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 11,
+    "day": 11,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -200,7 +200,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 12,
+    "day": 12,
     "host_team": "Australia",
     "opposition_team": "India",
     "game_type": "ODI",
@@ -218,7 +218,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 13,
+    "day": 13,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -236,7 +236,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 14,
+    "day": 14,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -254,7 +254,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 15,
+    "day": 15,
     "host_team": "Australia",
     "opposition_team": "India",
     "game_type": "ODI",
@@ -272,7 +272,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 16,
+    "day": 16,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -290,7 +290,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 17,
+    "day": 17,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -308,7 +308,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 18,
+    "day": 18,
     "host_team": "Australia",
     "opposition_team": "India",
     "game_type": "ODI",
@@ -326,7 +326,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 19,
+    "day": 19,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -344,7 +344,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 20,
+    "day": 20,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -362,7 +362,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 21,
+    "day": 21,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -380,7 +380,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 22,
+    "day": 22,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -398,7 +398,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 23,
+    "day": 23,
     "host_team": "New Zealand",
     "opposition_team": "India",
     "game_type": "ODI",
@@ -416,7 +416,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 24,
+    "day": 24,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -434,7 +434,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 25,
+    "day": 25,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -452,7 +452,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 26,
+    "day": 26,
     "host_team": "New Zealand",
     "opposition_team": "India",
     "game_type": "ODI",
@@ -470,7 +470,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 27,
+    "day": 27,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -488,7 +488,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 28,
+    "day": 28,
     "host_team": "New Zealand",
     "opposition_team": "India",
     "game_type": "ODI",
@@ -506,7 +506,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 29,
+    "day": 29,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -524,7 +524,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 30,
+    "day": 30,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -542,7 +542,7 @@
   {
     "year": 2019,
     "month": 1,
-    "date": 31,
+    "day": 31,
     "host_team": "New Zealand",
     "opposition_team": "India",
     "game_type": "ODI",
@@ -560,7 +560,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 1,
+    "day": 1,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -578,7 +578,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 2,
+    "day": 2,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -596,7 +596,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 3,
+    "day": 3,
     "host_team": "New Zealand",
     "opposition_team": "India",
     "game_type": "ODI",
@@ -614,7 +614,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 4,
+    "day": 4,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -632,7 +632,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 5,
+    "day": 5,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -650,7 +650,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 6,
+    "day": 6,
     "host_team": "New Zealand",
     "opposition_team": "India",
     "game_type": "T20I",
@@ -668,7 +668,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 7,
+    "day": 7,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -686,7 +686,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 8,
+    "day": 8,
     "host_team": "New Zealand",
     "opposition_team": "India",
     "game_type": "T20I",
@@ -704,7 +704,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 9,
+    "day": 9,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -722,7 +722,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 10,
+    "day": 10,
     "host_team": "New Zealand",
     "opposition_team": "India",
     "game_type": "T20I",
@@ -740,7 +740,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 11,
+    "day": 11,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -758,7 +758,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 12,
+    "day": 12,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -776,7 +776,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 13,
+    "day": 13,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -794,7 +794,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 14,
+    "day": 14,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -812,7 +812,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 15,
+    "day": 15,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -830,7 +830,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 16,
+    "day": 16,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -848,7 +848,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 17,
+    "day": 17,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -866,7 +866,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 18,
+    "day": 18,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -884,7 +884,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 19,
+    "day": 19,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -902,7 +902,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 20,
+    "day": 20,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -920,7 +920,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 21,
+    "day": 21,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -938,7 +938,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 22,
+    "day": 22,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -956,7 +956,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 23,
+    "day": 23,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -974,7 +974,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 24,
+    "day": 24,
     "host_team": "India",
     "opposition_team": "Australia",
     "game_type": "ODI",
@@ -992,7 +992,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 25,
+    "day": 25,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1010,7 +1010,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 26,
+    "day": 26,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1028,7 +1028,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 27,
+    "day": 27,
     "host_team": "India",
     "opposition_team": "Australia",
     "game_type": "ODI",
@@ -1046,7 +1046,7 @@
   {
     "year": 2019,
     "month": 2,
-    "date": 28,
+    "day": 28,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1064,7 +1064,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 1,
+    "day": 1,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1082,7 +1082,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 2,
+    "day": 2,
     "host_team": "India",
     "opposition_team": "Australia",
     "game_type": "ODI",
@@ -1100,7 +1100,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 3,
+    "day": 3,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1118,7 +1118,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 4,
+    "day": 4,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1136,7 +1136,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 5,
+    "day": 5,
     "host_team": "India",
     "opposition_team": "Australia",
     "game_type": "ODI",
@@ -1154,7 +1154,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 6,
+    "day": 6,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1172,7 +1172,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 7,
+    "day": 7,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1190,7 +1190,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 8,
+    "day": 8,
     "host_team": "India",
     "opposition_team": "Australia",
     "game_type": "ODI",
@@ -1208,7 +1208,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 9,
+    "day": 9,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1226,7 +1226,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 10,
+    "day": 10,
     "host_team": "India",
     "opposition_team": "Australia",
     "game_type": "T20I",
@@ -1244,7 +1244,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 11,
+    "day": 11,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1262,7 +1262,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 12,
+    "day": 12,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1280,7 +1280,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 13,
+    "day": 13,
     "host_team": "India",
     "opposition_team": "Australia",
     "game_type": "T20I",
@@ -1298,7 +1298,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 14,
+    "day": 14,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1316,7 +1316,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 15,
+    "day": 15,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1334,7 +1334,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 16,
+    "day": 16,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1352,7 +1352,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 17,
+    "day": 17,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1370,7 +1370,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 18,
+    "day": 18,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1388,7 +1388,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 19,
+    "day": 19,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1406,7 +1406,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 20,
+    "day": 20,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1424,7 +1424,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 21,
+    "day": 21,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1442,7 +1442,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 22,
+    "day": 22,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1460,7 +1460,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 23,
+    "day": 23,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1478,7 +1478,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 24,
+    "day": 24,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1496,7 +1496,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 25,
+    "day": 25,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1514,7 +1514,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 26,
+    "day": 26,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1532,7 +1532,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 27,
+    "day": 27,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1550,7 +1550,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 28,
+    "day": 28,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1568,7 +1568,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 29,
+    "day": 29,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1586,7 +1586,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 30,
+    "day": 30,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1604,7 +1604,7 @@
   {
     "year": 2019,
     "month": 3,
-    "date": 31,
+    "day": 31,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1622,7 +1622,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 1,
+    "day": 1,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1640,7 +1640,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 2,
+    "day": 2,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1658,7 +1658,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 3,
+    "day": 3,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1676,7 +1676,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 4,
+    "day": 4,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1694,7 +1694,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 5,
+    "day": 5,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1712,7 +1712,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 6,
+    "day": 6,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1730,7 +1730,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 7,
+    "day": 7,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1748,7 +1748,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 8,
+    "day": 8,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1766,7 +1766,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 9,
+    "day": 9,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1784,7 +1784,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 10,
+    "day": 10,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1802,7 +1802,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 11,
+    "day": 11,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1820,7 +1820,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 12,
+    "day": 12,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1838,7 +1838,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 13,
+    "day": 13,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1856,7 +1856,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 14,
+    "day": 14,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1874,7 +1874,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 15,
+    "day": 15,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1892,7 +1892,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 16,
+    "day": 16,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1910,7 +1910,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 17,
+    "day": 17,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1928,7 +1928,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 18,
+    "day": 18,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1946,7 +1946,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 19,
+    "day": 19,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1964,7 +1964,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 20,
+    "day": 20,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -1982,7 +1982,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 21,
+    "day": 21,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2000,7 +2000,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 22,
+    "day": 22,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2018,7 +2018,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 23,
+    "day": 23,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2036,7 +2036,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 24,
+    "day": 24,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2054,7 +2054,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 25,
+    "day": 25,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2072,7 +2072,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 26,
+    "day": 26,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2090,7 +2090,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 27,
+    "day": 27,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2108,7 +2108,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 28,
+    "day": 28,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2126,7 +2126,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 29,
+    "day": 29,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2144,7 +2144,7 @@
   {
     "year": 2019,
     "month": 4,
-    "date": 30,
+    "day": 30,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2162,7 +2162,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 1,
+    "day": 1,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2180,7 +2180,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 2,
+    "day": 2,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2198,7 +2198,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 3,
+    "day": 3,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2216,7 +2216,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 4,
+    "day": 4,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2234,7 +2234,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 5,
+    "day": 5,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2252,7 +2252,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 6,
+    "day": 6,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2270,7 +2270,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 7,
+    "day": 7,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2288,7 +2288,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 8,
+    "day": 8,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2306,7 +2306,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 9,
+    "day": 9,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2324,7 +2324,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 10,
+    "day": 10,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2342,7 +2342,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 11,
+    "day": 11,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2360,7 +2360,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 12,
+    "day": 12,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2378,7 +2378,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 13,
+    "day": 13,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2396,7 +2396,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 14,
+    "day": 14,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2414,7 +2414,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 15,
+    "day": 15,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2432,7 +2432,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 16,
+    "day": 16,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2450,7 +2450,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 17,
+    "day": 17,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2468,7 +2468,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 18,
+    "day": 18,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2486,7 +2486,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 19,
+    "day": 19,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2504,7 +2504,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 20,
+    "day": 20,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2522,7 +2522,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 21,
+    "day": 21,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2540,7 +2540,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 22,
+    "day": 22,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2558,7 +2558,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 23,
+    "day": 23,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2576,7 +2576,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 24,
+    "day": 24,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2594,7 +2594,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 25,
+    "day": 25,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2612,7 +2612,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 26,
+    "day": 26,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2630,7 +2630,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 27,
+    "day": 27,
     "host_team": "",
     "opposition_team": "",
     "game_type": "T20",
@@ -2648,7 +2648,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 28,
+    "day": 28,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2666,7 +2666,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 29,
+    "day": 29,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2684,7 +2684,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 30,
+    "day": 30,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2702,7 +2702,7 @@
   {
     "year": 2019,
     "month": 5,
-    "date": 31,
+    "day": 31,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2720,7 +2720,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 1,
+    "day": 1,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2738,7 +2738,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 2,
+    "day": 2,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2756,7 +2756,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 3,
+    "day": 3,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2774,7 +2774,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 4,
+    "day": 4,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2792,7 +2792,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 5,
+    "day": 5,
     "host_team": "India",
     "opposition_team": "South Africa",
     "game_type": "ODI",
@@ -2810,7 +2810,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 6,
+    "day": 6,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2828,7 +2828,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 7,
+    "day": 7,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2846,7 +2846,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 8,
+    "day": 8,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2864,7 +2864,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 9,
+    "day": 9,
     "host_team": "India",
     "opposition_team": "Australia",
     "game_type": "ODI",
@@ -2882,7 +2882,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 10,
+    "day": 10,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2900,7 +2900,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 11,
+    "day": 11,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2918,7 +2918,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 12,
+    "day": 12,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2936,7 +2936,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 13,
+    "day": 13,
     "host_team": "India",
     "opposition_team": "New Zealand",
     "game_type": "ODI",
@@ -2954,7 +2954,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 14,
+    "day": 14,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2972,7 +2972,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 15,
+    "day": 15,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -2990,7 +2990,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 16,
+    "day": 16,
     "host_team": "India",
     "opposition_team": "Pakistan",
     "game_type": "ODI",
@@ -3008,7 +3008,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 17,
+    "day": 17,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3026,7 +3026,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 18,
+    "day": 18,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3044,7 +3044,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 19,
+    "day": 19,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3062,7 +3062,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 20,
+    "day": 20,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3080,7 +3080,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 21,
+    "day": 21,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3098,7 +3098,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 22,
+    "day": 22,
     "host_team": "India",
     "opposition_team": "Afghanistan",
     "game_type": "ODI",
@@ -3116,7 +3116,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 23,
+    "day": 23,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3134,7 +3134,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 24,
+    "day": 24,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3152,7 +3152,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 25,
+    "day": 25,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3170,7 +3170,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 26,
+    "day": 26,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3188,7 +3188,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 27,
+    "day": 27,
     "host_team": "India",
     "opposition_team": "West Indies",
     "game_type": "ODI",
@@ -3206,7 +3206,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 28,
+    "day": 28,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3224,7 +3224,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 29,
+    "day": 29,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3242,7 +3242,7 @@
   {
     "year": 2019,
     "month": 6,
-    "date": 30,
+    "day": 30,
     "host_team": "England",
     "opposition_team": "India",
     "game_type": "ODI",
@@ -3260,7 +3260,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 1,
+    "day": 1,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3278,7 +3278,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 2,
+    "day": 2,
     "host_team": "India",
     "opposition_team": "Bangladesh",
     "game_type": "ODI",
@@ -3296,7 +3296,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 3,
+    "day": 3,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3314,7 +3314,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 4,
+    "day": 4,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3332,7 +3332,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 5,
+    "day": 5,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3350,7 +3350,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 6,
+    "day": 6,
     "host_team": "India",
     "opposition_team": "Sri Lanka",
     "game_type": "ODI",
@@ -3368,7 +3368,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 7,
+    "day": 7,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3386,7 +3386,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 8,
+    "day": 8,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3404,7 +3404,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 9,
+    "day": 9,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3422,7 +3422,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 10,
+    "day": 10,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3440,7 +3440,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 11,
+    "day": 11,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3458,7 +3458,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 12,
+    "day": 12,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3476,7 +3476,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 13,
+    "day": 13,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3494,7 +3494,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 14,
+    "day": 14,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3512,7 +3512,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 15,
+    "day": 15,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3530,7 +3530,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 16,
+    "day": 16,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3548,7 +3548,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 17,
+    "day": 17,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3566,7 +3566,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 18,
+    "day": 18,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3584,7 +3584,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 19,
+    "day": 19,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3602,7 +3602,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 20,
+    "day": 20,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3620,7 +3620,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 21,
+    "day": 21,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3638,7 +3638,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 22,
+    "day": 22,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3656,7 +3656,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 23,
+    "day": 23,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3674,7 +3674,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 24,
+    "day": 24,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3692,7 +3692,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 25,
+    "day": 25,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3710,7 +3710,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 26,
+    "day": 26,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3728,7 +3728,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 27,
+    "day": 27,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3746,7 +3746,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 28,
+    "day": 28,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3764,7 +3764,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 29,
+    "day": 29,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3782,7 +3782,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 30,
+    "day": 30,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3800,7 +3800,7 @@
   {
     "year": 2019,
     "month": 7,
-    "date": 31,
+    "day": 31,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3818,7 +3818,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 1,
+    "day": 1,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3836,7 +3836,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 2,
+    "day": 2,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3854,7 +3854,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 3,
+    "day": 3,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3872,7 +3872,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 4,
+    "day": 4,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3890,7 +3890,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 5,
+    "day": 5,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3908,7 +3908,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 6,
+    "day": 6,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3926,7 +3926,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 7,
+    "day": 7,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3944,7 +3944,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 8,
+    "day": 8,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3962,7 +3962,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 9,
+    "day": 9,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3980,7 +3980,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 10,
+    "day": 10,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -3998,7 +3998,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 11,
+    "day": 11,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4016,7 +4016,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 12,
+    "day": 12,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4034,7 +4034,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 13,
+    "day": 13,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4052,7 +4052,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 14,
+    "day": 14,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4070,7 +4070,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 15,
+    "day": 15,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4088,7 +4088,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 16,
+    "day": 16,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4106,7 +4106,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 17,
+    "day": 17,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4124,7 +4124,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 18,
+    "day": 18,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4142,7 +4142,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 19,
+    "day": 19,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4160,7 +4160,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 20,
+    "day": 20,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4178,7 +4178,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 21,
+    "day": 21,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4196,7 +4196,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 22,
+    "day": 22,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4214,7 +4214,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 23,
+    "day": 23,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4232,7 +4232,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 24,
+    "day": 24,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4250,7 +4250,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 25,
+    "day": 25,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4268,7 +4268,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 26,
+    "day": 26,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4286,7 +4286,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 27,
+    "day": 27,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4304,7 +4304,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 28,
+    "day": 28,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4322,7 +4322,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 29,
+    "day": 29,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4340,7 +4340,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 30,
+    "day": 30,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4358,7 +4358,7 @@
   {
     "year": 2019,
     "month": 8,
-    "date": 31,
+    "day": 31,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4376,7 +4376,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 1,
+    "day": 1,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4394,7 +4394,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 2,
+    "day": 2,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4412,7 +4412,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 3,
+    "day": 3,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4430,7 +4430,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 4,
+    "day": 4,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4448,7 +4448,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 5,
+    "day": 5,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4466,7 +4466,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 6,
+    "day": 6,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4484,7 +4484,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 7,
+    "day": 7,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4502,7 +4502,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 8,
+    "day": 8,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4520,7 +4520,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 9,
+    "day": 9,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4538,7 +4538,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 10,
+    "day": 10,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4556,7 +4556,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 11,
+    "day": 11,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4574,7 +4574,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 12,
+    "day": 12,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4592,7 +4592,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 13,
+    "day": 13,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4610,7 +4610,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 14,
+    "day": 14,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4628,7 +4628,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 15,
+    "day": 15,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4646,7 +4646,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 16,
+    "day": 16,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4664,7 +4664,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 17,
+    "day": 17,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4682,7 +4682,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 18,
+    "day": 18,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4700,7 +4700,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 19,
+    "day": 19,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4718,7 +4718,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 20,
+    "day": 20,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4736,7 +4736,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 21,
+    "day": 21,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4754,7 +4754,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 22,
+    "day": 22,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4772,7 +4772,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 23,
+    "day": 23,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4790,7 +4790,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 24,
+    "day": 24,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4808,7 +4808,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 25,
+    "day": 25,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4826,7 +4826,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 26,
+    "day": 26,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4844,7 +4844,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 27,
+    "day": 27,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4862,7 +4862,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 28,
+    "day": 28,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4880,7 +4880,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 29,
+    "day": 29,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4898,7 +4898,7 @@
   {
     "year": 2019,
     "month": 9,
-    "date": 30,
+    "day": 30,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4916,7 +4916,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 1,
+    "day": 1,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4934,7 +4934,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 2,
+    "day": 2,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4952,7 +4952,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 3,
+    "day": 3,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4970,7 +4970,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 4,
+    "day": 4,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -4988,7 +4988,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 5,
+    "day": 5,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5006,7 +5006,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 6,
+    "day": 6,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5024,7 +5024,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 7,
+    "day": 7,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5042,7 +5042,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 8,
+    "day": 8,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5060,7 +5060,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 9,
+    "day": 9,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5078,7 +5078,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 10,
+    "day": 10,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5096,7 +5096,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 11,
+    "day": 11,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5114,7 +5114,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 12,
+    "day": 12,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5132,7 +5132,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 13,
+    "day": 13,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5150,7 +5150,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 14,
+    "day": 14,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5168,7 +5168,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 15,
+    "day": 15,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5186,7 +5186,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 16,
+    "day": 16,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5204,7 +5204,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 17,
+    "day": 17,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5222,7 +5222,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 18,
+    "day": 18,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5240,7 +5240,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 19,
+    "day": 19,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5258,7 +5258,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 20,
+    "day": 20,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5276,7 +5276,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 21,
+    "day": 21,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5294,7 +5294,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 22,
+    "day": 22,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5312,7 +5312,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 23,
+    "day": 23,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5330,7 +5330,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 24,
+    "day": 24,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5348,7 +5348,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 25,
+    "day": 25,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5366,7 +5366,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 26,
+    "day": 26,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5384,7 +5384,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 27,
+    "day": 27,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5402,7 +5402,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 28,
+    "day": 28,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5420,7 +5420,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 29,
+    "day": 29,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5438,7 +5438,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 30,
+    "day": 30,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5456,7 +5456,7 @@
   {
     "year": 2019,
     "month": 10,
-    "date": 31,
+    "day": 31,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5474,7 +5474,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 1,
+    "day": 1,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5492,7 +5492,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 2,
+    "day": 2,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5510,7 +5510,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 3,
+    "day": 3,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5528,7 +5528,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 4,
+    "day": 4,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5546,7 +5546,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 5,
+    "day": 5,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5564,7 +5564,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 6,
+    "day": 6,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5582,7 +5582,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 7,
+    "day": 7,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5600,7 +5600,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 8,
+    "day": 8,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5618,7 +5618,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 9,
+    "day": 9,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5636,7 +5636,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 10,
+    "day": 10,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5654,7 +5654,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 11,
+    "day": 11,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5672,7 +5672,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 12,
+    "day": 12,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5690,7 +5690,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 13,
+    "day": 13,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5708,7 +5708,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 14,
+    "day": 14,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5726,7 +5726,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 15,
+    "day": 15,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5744,7 +5744,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 16,
+    "day": 16,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5762,7 +5762,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 17,
+    "day": 17,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5780,7 +5780,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 18,
+    "day": 18,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5798,7 +5798,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 19,
+    "day": 19,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5816,7 +5816,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 20,
+    "day": 20,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5834,7 +5834,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 21,
+    "day": 21,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5852,7 +5852,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 22,
+    "day": 22,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5870,7 +5870,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 23,
+    "day": 23,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5888,7 +5888,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 24,
+    "day": 24,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5906,7 +5906,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 25,
+    "day": 25,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5924,7 +5924,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 26,
+    "day": 26,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5942,7 +5942,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 27,
+    "day": 27,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5960,7 +5960,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 28,
+    "day": 28,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5978,7 +5978,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 29,
+    "day": 29,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -5996,7 +5996,7 @@
   {
     "year": 2019,
     "month": 11,
-    "date": 30,
+    "day": 30,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6014,7 +6014,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 1,
+    "day": 1,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6032,7 +6032,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 2,
+    "day": 2,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6050,7 +6050,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 3,
+    "day": 3,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6068,7 +6068,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 4,
+    "day": 4,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6086,7 +6086,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 5,
+    "day": 5,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6104,7 +6104,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 6,
+    "day": 6,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6122,7 +6122,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 7,
+    "day": 7,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6140,7 +6140,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 8,
+    "day": 8,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6158,7 +6158,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 9,
+    "day": 9,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6176,7 +6176,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 10,
+    "day": 10,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6194,7 +6194,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 11,
+    "day": 11,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6212,7 +6212,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 12,
+    "day": 12,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6230,7 +6230,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 13,
+    "day": 13,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6248,7 +6248,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 14,
+    "day": 14,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6266,7 +6266,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 15,
+    "day": 15,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6284,7 +6284,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 16,
+    "day": 16,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6302,7 +6302,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 17,
+    "day": 17,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6320,7 +6320,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 18,
+    "day": 18,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6338,7 +6338,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 19,
+    "day": 19,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6356,7 +6356,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 20,
+    "day": 20,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6374,7 +6374,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 21,
+    "day": 21,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6392,7 +6392,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 22,
+    "day": 22,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6410,7 +6410,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 23,
+    "day": 23,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6428,7 +6428,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 24,
+    "day": 24,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6446,7 +6446,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 25,
+    "day": 25,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6464,7 +6464,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 26,
+    "day": 26,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6482,7 +6482,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 27,
+    "day": 27,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6500,7 +6500,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 28,
+    "day": 28,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6518,7 +6518,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 29,
+    "day": 29,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6536,7 +6536,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 30,
+    "day": 30,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
@@ -6554,7 +6554,7 @@
   {
     "year": 2019,
     "month": 12,
-    "date": 31,
+    "day": 31,
     "host_team": "",
     "opposition_team": "",
     "game_type": "",
