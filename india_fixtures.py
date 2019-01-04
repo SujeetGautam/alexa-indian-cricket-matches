@@ -21,7 +21,9 @@ def setGlobalVars():
         # Set the global variables
         globalVars['Owner']                 = "Miztiik"
         globalVars['Environment']           = "Production"
-        globalVars['fixtures_filename']     = "./data/india_fixtures_data.json"
+        globalVars['fixtures_filename']     = "./data/fixtures.json"
+        globalVars['countries_filename']    = "./data/icc_test_countries.json"
+        globalVars['flag_base_url']         = "https://raw.githubusercontent.com/miztiik/alexa-indian-cricket-matches/master/data/flags/"
     except KeyError as e:
         logger.error("Unable to set Global Environment variables. Exiting")
         logger.error('ERROR: {0}'.format( str(e) ) )
@@ -30,14 +32,11 @@ def setGlobalVars():
 
 
 def read_from_file(filename):
-    with open(filename) as json_file:
+    with open(filename, 'r') as json_file:
         data = json.load(json_file, parse_float = Decimal)
     return data
 
 def getNextMatch(fixtures):
-    nowDate = datetime.datetime.now()
-    #pdb.set_trace()
-
     nextMatchData = {'status':'',
                      'match_details':{},
                      'error_message':''
@@ -46,7 +45,9 @@ def getNextMatch(fixtures):
     try:
         for i in fixtures:
             if i.get('host_team'):
-                matchDate = str (i.get('day')) + '/' + str (i.get('month')) + '/' + str (i.get('year') )
+                # Only find matches that are in the future                
+                nowDate = datetime.datetime.now()
+                matchDate = str (i.get('month')) + '/' + str (i.get('day')) + '/' + str (i.get('year') )
                 if datetime.datetime.strptime( matchDate ,"%m/%d/%Y") > nowDate:
                     nextMatchData['match_details'] = i
                     nextMatchData['status'] = True
@@ -60,36 +61,62 @@ def getNextMatch(fixtures):
     
     return nextMatchData
 
-def findNextMatchAgainstTeam(fixtures, needleData):
+def findNextMatchAgainstTeam(fixtures, countriesData, needleData):
     nextMatchData = {'status':'',
-                     'match_details':{},
+                     'match_details': {},
                      'error_message':''
         }
+    # Find the next fixture against the given country
+    logger.info('Processing Fixtures')
     try:
         for i in fixtures:
-            if ( ( i.get('host_team') == needleData.get('country') or i.get('opposition_team') == needleData.get('country') ) and (not i.get('is_ongoing_match')) ):
-                nextMatchData['match_details'] = i
-                nextMatchData['status'] = True
-                break
-        if not nextMatchData['match_details']:
+            # Continue only if there are matches for that day
+            if i.get('host_team'):
+                # Only find matches that are in the future
+                nowDate = datetime.datetime.now()
+                matchDate = str (i.get('month')) + '/' + str (i.get('day')) + '/' + str (i.get('year') )
+                if datetime.datetime.strptime( matchDate ,"%m/%d/%Y") > nowDate:
+                    if ( i.get('host_team').lower() == needleData.get('country').lower() or i.get('opposition_team').lower() == needleData.get('country').lower() ):
+                        nextMatchData['match_details'] = i
+                        nextMatchData['status'] = True
+                        nextMatchData['match_details']['matchMonth'] = datetime.datetime.strptime( matchDate ,"%m/%d/%Y").strftime("%B")
+                        break
+
+        if nextMatchData.get('match_details'):
+            for i in countriesData:
+                if i.get('name') == nextMatchData['match_details'].get('host_team'):
+                    nextMatchData['match_details']['host_team_flag'] = globalVars['flag_base_url'] + i.get('code') + '.png'
+                    break
+            for i in countriesData:
+                if i.get('name') == nextMatchData['match_details'].get('opposition_team'):
+                    nextMatchData['match_details']['opposition_team_flag'] = globalVars['flag_base_url'] + i.get('code') + '.png'
+                    break
+        else:
             nextMatchData['status'] = False
+            nextMatchData['match_details']['no_team_flag'] = globalVars['flag_base_url'] +'no_team' + '.png'
 
     except Exception as e:
         nextMatchData['status'] = False
         nextMatchData['error_message'] = str(e)
-    
+        logger.error('ERROR: {0}'.format( str(e) ) )
+  
     return nextMatchData
 
 
 def lambda_handler(event, context):
     setGlobalVars()
-    india_fixtures = read_from_file(globalVars['fixtures_filename'])
+    fixtures = read_from_file(globalVars['fixtures_filename'])
+    countriesData = read_from_file(globalVars['countries_filename'])
 
-    needleData = { 'country' : 'New Zealand',
-                    'at_home': True }
+    # logger.info('Event: {0}'.format( event ) )
+    # For Testing
+    if not event.get('country'):
+        event = { 'country' : 'Bangladesh'}
 
-    print ( findNextMatchAgainstTeam(india_fixtures, needleData) )
-    return getNextMatch(india_fixtures)
+    resp = findNextMatchAgainstTeam(fixtures, countriesData, event)
+    print ( resp )
+    # logger.info(json.dumps(resp, indent=4, sort_keys=True) )
+    return resp
 
 if __name__ == '__main__':
     lambda_handler({}, {})
