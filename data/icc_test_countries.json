@@ -1,0 +1,50 @@
+[
+    {
+      "name": "Afghanistan",
+      "code": "AF"
+    },
+    {
+      "name": "Australia",
+      "code": "AU"
+    },
+    {
+      "name": "Bangladesh",
+      "code": "BD"
+    },
+    {
+      "name": "England",
+      "code": "GB"
+    },
+    {
+      "name": "India",
+      "code": "IN"
+    },
+    {
+      "name": "Ireland",
+      "code": "IE"
+    },
+    {
+      "name": "New Zealand",
+      "code": "NZ"
+    },
+    {
+      "name": "Pakistan",
+      "code": "PK"
+    },
+    {
+      "name": "South Africa",
+      "code": "ZA"
+    },
+    {
+      "name": "Sri Lanka",
+      "code": "LK"
+    },
+    {
+      "name": "West Indies",
+      "code": "WI"
+    },
+    {
+      "name": "Zimbabwe",
+      "code": "ZW"
+    }
+  ]
